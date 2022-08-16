@@ -1,0 +1,10 @@
+.imagem {
+  width: 500px;
+  height: 300px
+  margin: auto;
+}
+
+.imagem img {
+  width: 500px;
+  height: 300px;
+}
