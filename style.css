@@ -1,0 +1,81 @@
+html {
+    width: 980px;
+}
+
+body {
+    width: 800px;
+    margin: auto;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imagem {
+    width: 700px;
+    margin: auto;
+}
+
+.inicio {
+    width: 700px;
+}
+
+p {
+    width: 700px;
+    margin: auto;
+    font-size: 20px;
+    text-align: center;
+    border: 3px solid pink;
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu {
+    width: 750px;
+    margin: auto;
+}
+
+.menu li h1 {
+    font-size: 50px;
+    
+}
+
+ul li img {
+    width: 750px;
+    margin: auto;
+}
+
+h4 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
+h5 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fim {
+    width: 700px;
+    margin: auto;
+
+}
+
+img {
+    width: 700px ;
+}
