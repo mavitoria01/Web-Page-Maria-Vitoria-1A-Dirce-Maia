@@ -12,7 +12,8 @@ nav a {
 }
     h1 {
       font-size:45px
-          text-aling: center;
+      text-align: center;
+    width: 90%;   
 }
   
 h1 img {
