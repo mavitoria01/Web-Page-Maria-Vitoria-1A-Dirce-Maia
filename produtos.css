@@ -2,8 +2,5 @@ nav li {
   display: inline;
   font-size:10px
   font-weight: bold;
-}
-<p> {
-  font-weight: bold;
-  font-size:50px
+  text-decoration: none;
 }
