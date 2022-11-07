@@ -2,7 +2,11 @@ html {
     width: 980px;
     margin: auto;
 }
-
+head { text-align: end;
+    font-size: 70px;
+}
+    
+}
 body {
     width: 800px;
     margin: auto;
