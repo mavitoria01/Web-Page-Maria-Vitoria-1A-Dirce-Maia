@@ -1,7 +1,7 @@
 nav li {
   display: inline;
+  font-size:40px
 }
 nav ul {
   font-weight: bold;
-  font-size: 500px;
 }
