@@ -14,3 +14,10 @@ nav a {
       font-size:45px
           text-aling: center;
 }
+  
+h1 img {
+    width: 60%;
+    height: 360px;
+    box-shadow: 3px 3px 20px 7px;
+    margin: auto;
+}
