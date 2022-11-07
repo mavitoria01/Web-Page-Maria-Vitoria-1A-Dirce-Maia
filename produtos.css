@@ -1,6 +1,10 @@
 nav li {
   display: inline;
-  font-size:10px
+}
+nav a { 
+  text-transform: uppercase;
+  color: #000000;
   font-weight: bold;
+  font-size: 30px;
   text-decoration: none;
 }
