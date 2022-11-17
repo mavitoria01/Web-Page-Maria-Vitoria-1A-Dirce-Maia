@@ -59,6 +59,7 @@ h1 img {
  h8 {
  font-size: 35px;
     text-align: center;
+  font-weight: bold;
    }
  h9 {
      font-size: 30px;
@@ -70,7 +71,8 @@ h1 img {
 }
  h11 {
  font-size: 29px;
-    text-align: center;    
+    text-align: center;
+  font-weight: bold;
 }
    h12 {
     font-size: 30px;
