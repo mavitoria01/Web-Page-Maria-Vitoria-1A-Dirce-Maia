@@ -86,6 +86,11 @@ h1 img {
 h14 {
  width: 354px;
     height: 384px;
-    margin-left: 590px;   
+    margin-left: 590px;  
+}
+ h15{
+ font-size: 35px;
+    font-weight: bold;
+    color: currentcolor;    
 }
 
